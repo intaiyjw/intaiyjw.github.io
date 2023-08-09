@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: My Github stats
+title: Github Stats
 description:
 nav: true
 nav_order: 3
